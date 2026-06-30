@@ -1,3 +1,9 @@
+## tegami@1.0.0-beta.6 (beta)
+
+### Support `npm pretrust` command
+
+Useful for publishing new packages with trusted publishing.
+
 ## tegami@1.0.0-beta.5 (beta)
 
 ### Fix CLI parsing for options without short flags
